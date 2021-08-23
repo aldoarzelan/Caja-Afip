@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1">
+  <header>
+    <source>CN=wsaa, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+    <destination>C=ar, O=gdb comunicaciones srl, SERIALNUMBER=CUIT 30708696079, CN=gdbc</destination>
+    <uniqueId>4179698739</uniqueId>
+    <generationTime>2018-11-10T09:33:05.755-03:00</generationTime>
+    <expirationTime>2018-11-10T21:33:05.755-03:00</expirationTime>
+  </header>
+  <credentials>
+    <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiBkc3Q9IkNOPXdzZmUsIE89QUZJUCwgQz1BUiIgdW5pcXVlX2lkPSIzNTg5OTI5NjAzIiBnZW5fdGltZT0iMTU0MTg1MzEyNSIgZXhwX3RpbWU9IjE1NDE4OTYzODUiLz4KICAgIDxvcGVyYXRpb24gdHlwZT0ibG9naW4iIHZhbHVlPSJncmFudGVkIj4KICAgICAgICA8bG9naW4gZW50aXR5PSIzMzY5MzQ1MDIzOSIgc2VydmljZT0id3NmZSIgdWlkPSJDPWFyLCBPPWdkYiBjb211bmljYWNpb25lcyBzcmwsIFNFUklBTE5VTUJFUj1DVUlUIDMwNzA4Njk2MDc5LCBDTj1nZGJjIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMzA3MDg2OTYwNzkiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</token>
+    <sign>XGKfO/1WAgaA843Hsb7QrE3VAjmKlz2mS2M540Hrv3MsKVcM5/mJhodg05yTbaMHBkGVvE7Q4zjJtdupke/B9+lyq0OiGaNRmOrRDo3dYtSBTTW8CG+Lqx1ce2y2Qdk3oIr/lep92EErbwOnEdBtkkpVrwEAHYs3YImo3hJgPqg=</sign>
+  </credentials>
+</loginTicketResponse>
